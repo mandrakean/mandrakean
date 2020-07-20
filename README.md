@@ -1,4 +1,4 @@
-![](https://imgur.com/mbDZPfO)
+![](https://i.imgur.com/mbDZPfO.png)
 
 # Olá, eu sou o Mandrake
 
