@@ -7,7 +7,7 @@
 # Bônus Game: ❤️
 - Sou um psicologo e curto bastante psicoterapia e avaliação psicológica;
 - Sou um praticante de magia do caos e mancias populares (tarot, quiromancia e outras) apesar de ser bem cético;
-- Sou um Padre na igreja discordiana POEE e um pastor da ULC.
+- Sou um Padre na igreja [discordiana](https://www.editorapendragon.com.br/single-post/2016/04/11/Discordianismo-A-Religi%C3%A3o-do-Caos) do anjo incandescente e um pastor da [ULC](https://pt.qwe.wiki/wiki/Universal_Life_Church) na amazônia.
 # Na Wired: 🌐
 - tento aglomerar meus interesses [nesse site](https://www.mdklab.com.br)
 - tenho um twitter, mas se quiser me achar PROCURE ^_^
