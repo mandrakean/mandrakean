@@ -1,6 +1,6 @@
 ![](https://i.imgur.com/mbDZPfO.png)
 
-# Olá, eu sou o Mandrake 🖖🏻
+# Hello, My name is Mandrake 🖖🏻
 I live in Brazil and I've been studying System Analysis and Development. I'm passionate about FrontEnd and Software Developing, and I love talk about A.I., machine learning, Data Science, Big Data, Prosthetic, Robotic and Brain-Machine Interface.
 
 I'm a psychologist since 2015, and I want to merge my kownledge with psychology and tecnology. In my free time I like to play tabbletop RPG, to watch movies and series, to read books and comics, to listen to music and podcasts and eventually I like to philosophize about life, universe and everything. I am also a minister (in the Discordian church and in the ULC) and a occultist (spells and supernatural stuffs).
