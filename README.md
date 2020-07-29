@@ -1,5 +1,3 @@
-![](https://i.imgur.com/mbDZPfO.png)
-
 # Hello, My name is Mandrake 🖖🏻
 I live in Brazil and I've been studying System Analysis and Development. I'm passionate about FrontEnd and Software Developing, and I love talk about A.I., machine learning, Data Science, Big Data, Prosthetic, Robotic and Brain-Machine Interface.
 
