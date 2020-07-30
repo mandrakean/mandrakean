@@ -5,8 +5,11 @@ I'm a psychologist since 2015, and I want to merge my psychologic and tecnologic
 
 Would you like to find me?
 
-[![Blog Badge](https://img.shields.io/badge/Blog-Mdklab.com.br-black)](https://www.mdklab.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandrake-profeta-9406a11a4)](https://www.linkedin.com/in/mandrake-profeta-9406a11a4)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandrake-profeta-9406a11a4)](https://www.linkedin.com/in/mandrake-profeta-9406a11a4)
+[![Codepen Badge](https://img.shields.io/badge/-CodePen-purple?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/mdklab5)](https://www.codepen.io/mdklab5)
+[![Site Badge](https://img.shields.io/badge/-Mdklab.com.br-black?style=for-the-badge)](https://www.mdklab.com)
+
 
 <!--
 **mandrakean/mandrakean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
