@@ -3,6 +3,19 @@ I live in Brazil and I've been studying System Analysis and Development. I'm pas
 
 I'm a psychologist since 2015, and I want to merge my psychologic and tecnologic kownledge. In my free time I like to play tabbletop RPG, to watch movies and series, to read books and comics, to listen to music and podcasts and eventually I like to philosophize about life, universe and everything. I am also a minister (in the Discordian church and in the ULC) and a occultist (spells and supernatural stuffs).
 
+### Technologies
+
+[![JavaScript Bagde](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![React Bagde](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![Node Bagde](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=nodejs&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![Python Bagde](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![HTML Bagde](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![css Bagde](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![Bootstrap Bagde](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![Typescript Bagde](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![php Bagde](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![sql Bagde](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+
 Would you like to find me?
 
 
