@@ -11,13 +11,8 @@ I'm a psychologist since 2015, and I want to merge my psychologic and tecnologic
 [![Python Bagde](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
 [![HTML Bagde](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
 [![css Bagde](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
-[![Bootstrap Bagde](https://img.shields.io/badge/-Bootstrap-purple?style=flat-square&logo=bootstrap&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
-[![Typescript Bagde](https://img.shields.io/badge/-TypeScript-blue?style=flat-square&logo=typescript&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
-[![php Bagde](https://img.shields.io/badge/-PHP-purple?style=flat-square&logo=php&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
-[![sql Bagde](https://img.shields.io/badge/-SQL-blue?style=flat-square&logo=sql&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
 
-Would you like to find me?
-
+### Would you like to find me?
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mandrake-profeta-9406a11a4)](https://www.linkedin.com/in/mandrake-profeta-9406a11a4)
 [![Codepen Badge](https://img.shields.io/badge/-CodePen-purple?style=for-the-badge&logo=Codepen&logoColor=white&link=https://codepen.io/mdklab5)](https://www.codepen.io/mdklab5)
