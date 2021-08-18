@@ -1,14 +1,12 @@
-# Hello, My name is Mandrake 🖖🏻
-I live in Brazil and I've been studying System Analysis and Development. I'm passionate about FrontEnd and Software Developing, and I love talk about A.I., machine learning, Data Science, Big Data, Prosthetic, Robotic and Brain-Machine Interface.
-
-I'm a psychologist since 2015, and I want to merge my psychologic and tecnologic knowledge. In my free time I like to play tabbletop RPG, to watch movies and series, to read books and comics, to listen to music and podcasts and eventually I like to philosophize about life, universe and everything. I am also a minister (in the Discordian church and in the ULC) and a occultist (spells and supernatural stuffs).
+# Oi eu sou o Mandrake 🖖🏻
+Sou psicologo e estudante de análise de sistemas, e quero unir essas duas áreas no futuro trabalhando com IA, prostética, interfaces cerebro-máquina, Realidade virtual e robôtica. Pro futuro vir a gente tem que faze-lo né?
 
 ### Technologies
 
-[![JavaScript Bagde](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
-[![Python Bagde](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
 [![HTML Bagde](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
 [![css Bagde](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
+[![JavaScript Bagde](https://img.shields.io/badge/-Javascript-yellow?style=flat-square&logo=Javascript&logoColor=white&link=https://github.com/Aline595)](https://github.com/Aline595)
+[![Python Bagde](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white&link=https://github.com//mandrakean)](https://github.com//mandrakean)
 
 ### Would you like to find me?
 
