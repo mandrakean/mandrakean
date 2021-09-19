@@ -1,5 +1,5 @@
 # Oi eu sou o Mandrake 🖖🏻
-Sou psicologo e estudante de análise de sistemas, e quero unir essas duas áreas no futuro trabalhando com IA, prostética, interfaces cerebro-máquina, Realidade virtual e robôtica. Pro futuro vir a gente tem que faze-lo né?
+Sou psicologo e estudante de análise de sistemas, e quero unir essas duas áreas no futuro trabalhando com IA, prostética, interfaces cerebro-máquina, Realidade virtual e robôtica. Pro futuro vir a gente tem que fazê-lo né?
 
 ### Technologies
 
